@@ -14,7 +14,7 @@
 - 🚀 Focused on building **clean, responsive, and performance-oriented websites**
 - 🛠️ Experienced with **HTML, CSS, JavaScript, PHP, WordPress, and front-end development**
 - 📫 Reach me at **berke6161@icloud.com**
-- 🌐 Portfolio: **[berkecirakman.com](http://berkecirakman.com/)**
+- 🌐 Portfolio: **[stayhigh.com.tr](https://stayhigh.com.tr/)**
 
 ---
 
@@ -93,20 +93,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkecrkmn&show_icons=true&locale=en&layout=compact" alt="berkecrkmn" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkecrkmn&show_icons=true&locale=en" alt="berkecrkmn" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkecrkmn" alt="berkecrkmn" />
 </p>
